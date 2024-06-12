@@ -1,3 +1,3 @@
-import"./all-theme.min.js"
-import"./all-theme.min.js"
-import"./all-theme.min.js"
+import "https://unpkg.com/paperui-web";
+import "https://unpkg.com/papericons";
+import "https://unpkg.com/paperjs";
