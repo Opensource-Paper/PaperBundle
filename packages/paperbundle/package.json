@@ -1,24 +1,24 @@
 {
     "name": "paperbundle",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "The Paper Bundle is a collection of all repositories within the Paper Design System, available through a single content delivery network (CDN).",
     "main": "import.js",
     "unpkg": "import.min.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Opensource-Paper/PaperBundle.git"
+        "type": "git",
+        "url": "git+https://github.com/Opensource-Paper/PaperBundle.git"
     },
     "author": "Opensource-Paper",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/Opensource-Paper/PaperBundle/issues"
+        "url": "https://github.com/Opensource-Paper/PaperBundle/issues"
     },
     "homepage": "https://paperui.com",
     "keywords": [
         "paperbundle",
         "open-source"
     ]
-  }
+}
