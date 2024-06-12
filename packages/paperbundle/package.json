@@ -1,7 +1,7 @@
 {
-    "name": "paperjs",
-    "version": "0.0.9",
-    "description": "Paper JS is a new way to write HTML entirely in your JavaScript.",
+    "name": "paperbundle",
+    "version": "0.0.0",
+    "description": "The Paper Bundle is a collection of all repositories within the Paper Design System, available through a single content delivery network (CDN)",
     "main": "import.js",
     "unpkg": "import.min.js",
     "scripts": {
@@ -9,25 +9,16 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Opensource-Paper/PaperJS.git"
+      "url": "git+https://github.com/Opensource-Paper/PaperBundle.git"
     },
     "author": "Opensource-Paper",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/Opensource-Paper/PaperJS/issues"
+      "url": "https://github.com/Opensource-Paper/PaperBundle/issues"
     },
     "homepage": "https://paperui.com",
     "keywords": [
-      "javascript",
-      "language",
-      "html",
-      "open-source",
-      "npm",
-      "documentation",
-      "js",
-      "paper",
-      "script",
-      "paperjs",
-      "paperscript"
+        "paperbundle",
+        "open-source"
     ]
   }
