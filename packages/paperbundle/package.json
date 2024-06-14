@@ -1,6 +1,6 @@
 {
     "name": "paperbundle",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "The Paper Bundle is a collection of all repositories within the Paper Design System, available through a single content delivery network (CDN).",
     "main": "import.js",
     "unpkg": "import.min.js",
