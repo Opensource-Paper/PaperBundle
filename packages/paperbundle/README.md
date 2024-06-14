@@ -24,6 +24,8 @@ Import Paper Bundle using CDN. The import.min.js file will automatically import 
 <script type="module" src="https://unpkg.com/paperbundle@latest"></script>
 ```
 
+Check out the demo on [codepen](https://codepen.io/GreenestGoat/pen/NWVwKpv).
+
 <!--### NPM
 
 Install Paper UI web components using [npm and node](https://nodejs.org/en).
